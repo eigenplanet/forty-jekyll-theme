@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Consequat
+title: Wikipedia
 description: Ipsum dolor sit amet
 image: assets/images/pic05.jpg
+link: http://www.wikipedia.org
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

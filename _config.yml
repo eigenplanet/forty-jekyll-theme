@@ -12,7 +12,7 @@ tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-200px_url:
+500px_url:
 facebook_url:
 github_url:
 pinterest_url:

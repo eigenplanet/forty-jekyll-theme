@@ -30,8 +30,8 @@
 			background-size: cover;
 			cursor: default;
 			height: 20vh;
-			max-height: 40em;
-			min-height: 23em;
+			max-height: 20em;
+			min-height: 13em;
 			overflow: hidden;
 			position: relative;
 			width: 40%;
@@ -148,8 +148,8 @@
 			article {
 				@include padding(4em, 3em);
 				height: 15vh;
-				max-height: 30em;
-				min-height: 20em;
+				max-height: 15em;
+				min-height: 10em;
 			}
 		}
 
@@ -162,7 +162,7 @@
 		@include breakpoint(small) {
 			article {
 				@include padding(3em, 1.5em);
-				height: 16em;
+				height: 12em;
 				max-height: none;
 				min-height: 0;
 
@@ -176,7 +176,7 @@
 			display: block;
 
 			article {
-				height: 20em;
+				height: 10em;
 				width: 100% !important;
 			}
 		}

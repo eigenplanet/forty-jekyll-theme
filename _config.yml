@@ -1,7 +1,7 @@
 # site settings
 title: Stamp Demo
 subtitle: by Eigenplanet
-email: 
+email: gilang@eigenplanet.com
 description: Start page for Stamp demo
 baseurl: "/stamp-demo" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -12,7 +12,7 @@ tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-500px_url:
+200px_url:
 facebook_url:
 github_url:
 pinterest_url:

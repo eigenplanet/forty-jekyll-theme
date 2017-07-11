@@ -29,7 +29,7 @@
 			background-repeat: no-repeat;
 			background-size: cover;
 			cursor: default;
-			height: 20vh;
+			height: 10vh;
 			max-height: 20em;
 			min-height: 13em;
 			overflow: hidden;
@@ -147,7 +147,7 @@
 		@include breakpoint(large) {
 			article {
 				@include padding(4em, 3em);
-				height: 15vh;
+				height: 10vh;
 				max-height: 15em;
 				min-height: 10em;
 			}

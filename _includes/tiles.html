@@ -6,7 +6,11 @@
                         <img src="{{ post.image }}" alt="" />
                 </span>
                 <header class="major">
+                        {% if post.link == null %}
+                        <h3><a href="{{ post.url  | relative_url }}" class="link">{{ post.title }}</a></h3>
+                        {% else %}
                         <h3><a href="{{ post.link }}" class="link">{{ post.title }}</a></h3>
+                        {% endif %}
                         <p>{{ post.description }}</p>
                 </header>
         </article>

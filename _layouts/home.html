@@ -16,7 +16,15 @@
     <section id="banner" class="major">
         <div class="inner">
             <header class="major">
-                <h1>{{ page.landing-title }}</h1>
+		<h1>
+			{% if page.youtube %}
+				<div class="videowrapper"><iframe src="{{ page.youtube }}"></iframe></div>
+ +			{% else %}
+  				{% if page.image %}
+					<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>
+				{% endif %}
+ +			{% endif %}
+		</h1>
             </header>
             <div class="content">
                 <p style="text-transform: uppercase;">{{ site.description }}</p>

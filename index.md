@@ -1,11 +1,12 @@
 ---
 layout: home
 title: Home
-landing-title: 'Smart Stamp by Echoss'
+landing-title: 'echoss Smart Stamp by 12cm'
 description: null
 image: null
 author: null
 youtube: https://www.youtube.com/embed/76NiQOzn-VY
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+echoss  Smart Stamp is a tool that has verification and certification capability online with a very familiar environment of using a stamp on paper, which is applied on smart phones.
+echoss  Smart Stamp is an efficient way to have O2O business with an easy, but strong application.

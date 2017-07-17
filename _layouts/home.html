@@ -15,8 +15,8 @@
     <!-- Banner -->
     <section id="banner" class="major">
         <div class="inner">
-            <div class="content">
-                <p>	
+            <header class="major">
+                <h1>	
                 {% if page.youtube %}
 			<div class="videowrapper"><iframe src="{{ page.youtube }}"></iframe></div>
 		{% else %}
@@ -24,7 +24,10 @@
 				<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>
 			{% endif %}
 		{% endif %}
-		    </p>
+		</h1>
+            </header>
+	    <div class="content">
+                <p style="text-transform: uppercase;">{{ site.description }}</p>
             </div>
         </div>
     </section>

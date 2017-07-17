@@ -1,15 +1,15 @@
 # site settings
-title: Stamp Demo
+title: echoss Stamp Demo
 subtitle: by Eigenplanet
 email: gilang@eigenplanet.com
-description: Start page for Stamp demo
+description: echoss  Smart Stamp is a tool that has verification and certification capability online with a very familiar environment of using a stamp on paper, which is applied on smart phones.
 baseurl: "/stamp-demo" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Eigenplanet
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 8
 
 # social settings
 500px_url:

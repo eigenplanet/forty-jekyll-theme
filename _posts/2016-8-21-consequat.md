@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Echoss Paper
-description: echoss Paper, marketing tool for connecting with  offline ads and Mobile Multi contents, is made for O2O promotion using the Character Design to fit the Promotion.
+description: Marketing tool for connecting with offline ads and Mobile Multi contents with custom stamp design.
 image: assets/images/pic05.jpg
 link: http://paper.echoss.co.kr/paperintro_lite/intro.html
 ---

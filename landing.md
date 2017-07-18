@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Payment Services
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: Smart Stamp can be applied to various O2O services such as voucher service, gift card service, and even direct transaction
 image: assets/images/pic07.jpg
 nav-menu: true
 ---

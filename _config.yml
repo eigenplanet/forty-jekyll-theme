@@ -2,7 +2,7 @@
 title: echoss Stamp Demo
 subtitle: by Eigenplanet
 email: gilang@eigenplanet.com
-description: echoss  Smart Stamp is a tool that has verification and certification capability online with a very familiar environment of using a stamp on paper, which is applied on smart phones.
+description: echoss Smart Stamp is a tool that has verification and certification capability on smart phones.
 baseurl: "/stamp-demo" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Eigenplanet

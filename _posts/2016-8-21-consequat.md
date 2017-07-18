@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Wikipedia
-description: Ipsum dolor sit amet
+title: Echoss Paper
+description: echoss Paper, marketing tool for connecting with  offline ads and Mobile Multi contents, is made for O2O promotion using the Character Design to fit the Promotion.
 image: assets/images/pic05.jpg
-link: http://www.wikipedia.org
+link: http://paper.echoss.co.kr/paperintro_lite/intro.html
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

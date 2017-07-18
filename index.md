@@ -8,5 +8,5 @@ author: null
 youtube: https://www.youtube.com/embed/76NiQOzn-VY
 ---
 
-echoss  Smart Stamp is a tool that has verification and certification capability online with a very familiar environment of using a stamp on paper, which is applied on smart phones.
-echoss  Smart Stamp is an efficient way to have O2O business with an easy, but strong application.
+echoss Smart Stamp can be applied to various O2O services such as voucher service, gift card service, and even direct transaction
+

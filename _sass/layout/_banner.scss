@@ -17,10 +17,10 @@
 		background-size: cover;
 		border-bottom: 0 !important;
 		cursor: default;
-		height: 8vh;
+		height: 5vh;
 		margin-bottom: -3.25em;
 		max-height: 10em;
-		min-height: 6em;
+		min-height: 3em;
 		position: relative;
 		top: -3.25em;
 
@@ -95,7 +95,7 @@
 		}
 
 		&.major {
-			height: 6vh;
+			height: 5vh;
 			min-height: 10em;
 			max-height: 15em;
 
